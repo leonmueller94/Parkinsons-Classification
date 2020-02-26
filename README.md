@@ -1,4 +1,4 @@
-# Parkinsons-Estimation
+# Parkinsons-Classification
 Project developed during the 7th semester MSc. Medialogy course “Machine Learning for Media Technology”.
 
 The project uses various classification techniques from the field of machine learning (ML), such as Qudratic Linear Classifier, Linear Distance Classifier, Nearest-Mean Classifier, and K-Nearest-Neighbor Classifier, to predict Parkinson’s disease (PD) using biometrical voice measurements obtained from healthy individuals and people suffering from PD.
